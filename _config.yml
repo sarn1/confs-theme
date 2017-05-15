@@ -3,7 +3,7 @@ title: Example Jekyll Site Hosted On Github
 email: no-reply@gmail.com
 description: A simple Jekyll blog hosted on Github.
 baseurl: "/example-jekyll-github"
-avatar: "" # Set footer avatar
+avatar: "//media.licdn.com/mpr/mpr/shrinknp_400_400/p/5/005/008/330/20c0f7c.jpg" # Set footer avatar
 paginate: 3
 
 # Build settings
