@@ -7,7 +7,7 @@ An example project of using Jekyll through Github and hosting it on said platfor
 - [Forked](https://github.com/WebConfs/confs-theme) conf-theme by going to the page and clicking on fork.
 - Renamed project to ExampleJekyllGithub
 - In terminal did the following:
-```
+```bash
 git init
 git remote add origin git@github-sarn1:sarn1/example-jekyll-github.git
 config user.name "sarn1"
@@ -15,9 +15,9 @@ git pull origin master
 touch .gitignore
 vim .gitignore
 config user.name "sarn1"
-config user.email “email@example.com”
+config user.email "email@example.com"
 git add .
-git commit -m “first push”
+git commit -m "first push"
 git push origin master
 git branch -b gh-pages
 git checkout gh-pages
